@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00574B</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="duskYellow">#A69D62</color>
+    <color name="lightGrey">#D3D3D3</color>
+    <color name="navigation_bar">#11D872</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#272525</color>
+    <color name="red">#FFFF0101</color>
+    <color name="color_grey">#F7F7FC</color>
+    <color name="facebook">#3b5998</color>
+    <color name="transparent">#00000000</color>
+    <color name="button_green">#009432</color>
+    <color name="darkGray">#979393</color>
+    <color name="title_color">#232F34</color>
+    <color name="dark_blue">#E4324AB2</color>
+    <color name="black_tranference">#49000000</color>
+    <color name="black_0_opacity">#78000000</color>
+    <color name="black_50_opacity">#96000000</color>
+    <color name="light_green">#1FAA00</color>
+    <color name="circle_image_border">#b1e8ed</color>
+    <color name="light_blue">#61D2FE</color>
+    <color name="light_blue_button">#5590D9</color>
+    <color name="nikel_gray">#717568</color>
+    <color name="logout_red">#ff6768</color>
+    <color name="top_character">#303641</color>
+    <color name="balance_green">#00a550</color>
+    <color name="notification_unseen_blue">#D9E4F4</color>
+    <color name="near_black">#232F34</color>
+    <color name="search_background">#D9D9D9</color>
+    <color name="discount_red">#D91A2A</color>
+    <color name="pink">#F94C4C</color>
+    <color name="google">#4885ed</color>
+
+</resources>

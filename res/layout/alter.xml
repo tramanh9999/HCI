@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+<HorizontalScrollView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="121dp"
+            android:layout_height="196dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="196dp"
+                android:background="@drawable/promotion_border"
+                android:orientation="vertical">
+                <ImageView
+                    android:layout_width="108dp"
+                    android:layout_height="117dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/beer" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="24dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Bia nhập khẩu"
+                    android:textColor="@color/black"
+                    android:textSize="15dp" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="295.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/discount_red"
+                    android:textSize="17sp" />
+
+                <TextView
+                    android:id="@+id/oldprice7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="420.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/gray"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/discount_red"
+                android:gravity="center"
+                android:text="-30%"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="121dp"
+            android:layout_height="196dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="196dp"
+                android:background="@drawable/promotion_border"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="108dp"
+                    android:layout_height="117dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/baker" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="24dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Bia nhập khẩu"
+                    android:textColor="@color/black"
+                    android:textSize="15dp" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="295.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/discount_red"
+                    android:textSize="17dp" />
+
+                <TextView
+                    android:id="@+id/oldprice8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="420.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/gray"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/discount_red"
+                android:gravity="center"
+                android:text="-30%"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="121dp"
+            android:layout_height="196dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="196dp"
+                android:background="@drawable/promotion_border"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="108dp"
+                    android:layout_height="117dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/col" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="24dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Bia nhập khẩu"
+                    android:textColor="@color/black"
+                    android:textSize="15dp" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="295.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/discount_red"
+                    android:textSize="17dp" />
+
+                <TextView
+                    android:id="@+id/oldprice"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="420.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/gray"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/discount_red"
+                android:gravity="center"
+                android:text="-30%"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="121dp"
+            android:layout_height="196dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="196dp"
+                android:background="@drawable/promotion_border"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="108dp"
+                    android:layout_height="117dp"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/pour" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="24dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Bia nhập khẩu"
+                    android:textColor="@color/black"
+                    android:textSize="15dp" />
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="295.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/discount_red"
+                    android:textSize="17dp" />
+
+                <TextView
+                    android:id="@+id/oldprice9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="420.000 đ"
+                    android:textAlignment="center"
+                    android:textColor="@color/gray"
+                    android:textSize="15dp" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="50dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@color/discount_red"
+                android:gravity="center"
+                android:text="-30%"
+                android:textColor="@color/white" />
+        </RelativeLayout>
+    </LinearLayout>
+
+</HorizontalScrollView>
+</LinearLayout>
+</LinearLayout>
